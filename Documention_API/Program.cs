@@ -1,3 +1,5 @@
+using JsonKeywordDocumentationLibrary;
+
 namespace Documention_API
 {
     public class Program
@@ -18,7 +20,49 @@ namespace Documention_API
 
             app.UseAuthorization();
 
+            app.MapGet("/",(HttpContext context) =>
+            {
+                context.Response.WriteAsync(ShowRoutes.routes());
+            });
+
+            app.MapGet("/abstract",(HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context, "abstract");
+
+            });
+            app.MapGet("/async", (HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context,"async");
+
+            });
+            app.MapGet("/const", (HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context, "const");
+
+            });
+            app.MapGet("/event", (HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context, "event");
+
+            });
+            app.MapGet("/extern", (HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context, "extern");
+
+            });
+            app.MapGet("/new", (HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context, "new");
+
+            });
+            app.MapGet("/override", (HttpContext context) =>
+            {
+                SelectKeyword.WriteKeywordContent(context, "override");
+
+            });
+
             app.Run();
         }
+
     }
 }

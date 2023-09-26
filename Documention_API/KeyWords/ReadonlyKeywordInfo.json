@@ -1,4 +1,0 @@
-{
-    "keyword": "readonly",
-    "description": "In C#, a readonly keyword is a modifier which is used in the following ways:\r\n\r\n1. Readonly Fields: \nIn C#, you are allowed to declare a field using readonly modifier. It indicates that the assignment to the fields is only the part of the declaration or in a constructor to the same class. Such types of fields can only be assigned or reassigned multiple times only at the declaration or in a constructor."
-}

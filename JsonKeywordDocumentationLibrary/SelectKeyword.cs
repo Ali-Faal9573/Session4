@@ -1,11 +1,13 @@
 ﻿using JsonKeywordDocumentationApp;
+using Microsoft.AspNetCore.Http;
+using System.Net.Http;
 
 namespace JsonKeywordDocumentationLibrary
 {
     public static class SelectKeyword
     {
 
-        public static string? keywordinfo(string keyword)
+        public static string keywordinfo(string keyword)
         {
             string projectPath = ProjectPath.GetPath();
 
@@ -33,30 +35,14 @@ namespace JsonKeywordDocumentationLibrary
                 case "override":
                     string overridefileToRead = Path.Combine(projectPath, "KeyWords", "OverrideKeywordInfo.json");
                     return overridefileToRead;
-                case "partial":
-                    string partialfileToRead = Path.Combine(projectPath, "KeyWords", "PartialKeywordInfo.json");
-                    return partialfileToRead;
-                case "readonly":
-                    string readonlyfileToRead = Path.Combine(projectPath, "KeyWords", "ReadonlyKeywordInfo.json");
-                    return readonlyfileToRead;
-                case "sealed":
-                    string sealedfileToRead = Path.Combine(projectPath, "KeyWords", "SealedKeywordInfo.json");
-                    return sealedfileToRead;
-                case "static":
-                    string staticfileToRead = Path.Combine(projectPath, "KeyWords", "StaticKeywordInfo.json");
-                    return staticfileToRead;
-                case "unsafe":
-                    string unsafefileToRead = Path.Combine(projectPath, "KeyWords", "UnsafeKeywordInfo.json");
-                    return unsafefileToRead;
-                case "virtual":
-                    string virtualfileToRead = Path.Combine(projectPath, "KeyWords", "VirtualKeywordInfo.json");
-                    return virtualfileToRead;
-                case "volatile":
-                    string volatilefileToRead = Path.Combine(projectPath, "KeyWords", "VolatileKeywordInfo.json");
-                    return volatilefileToRead;
                 default:
-                    return null;
+                    return "no content";
             }
+        }
+        public static void WriteKeywordContent(HttpContext context, string v)
+        {
+            var filecontent = System.IO.File.ReadAllText(keywordinfo(v));
+            context.Response.WriteAsync(filecontent);
         }
     }
 }

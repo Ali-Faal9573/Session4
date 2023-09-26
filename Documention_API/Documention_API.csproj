@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\JsonKeywordDocumentationLibrary.csproj" />
+    <ProjectReference Include="..\JsonKeywordDocumentationLibrary\JsonKeywordDocumentationLibrary.csproj" />
   </ItemGroup>
 
 </Project>

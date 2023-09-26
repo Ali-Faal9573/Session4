@@ -1,4 +1,0 @@
-{
-    "keyword": "volatile",
-    "description": "The volatile keyword indicates that a field might be modified by multiple threads that are executing at the same time. The compiler, the runtime system, and even hardware may rearrange reads and writes to memory locations for performance reasons."
-}
