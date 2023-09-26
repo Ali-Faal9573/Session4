@@ -1,0 +1,4 @@
+{
+    "keyword": "new",
+    "description": "When used as a declaration modifier, the new keyword explicitly hides a member that is inherited from a base class. When you hide an inherited member, the derived version of the member replaces the base class version."
+}

@@ -1,0 +1,4 @@
+{
+    "keyword": "sealed",
+    "description": "In c#, sealed is a keyword used to stop inheriting the particular class from other classes. We can also prevent overriding particular properties or methods based on our requirements."
+}

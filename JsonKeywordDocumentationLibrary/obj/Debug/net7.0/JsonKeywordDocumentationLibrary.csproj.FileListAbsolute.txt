@@ -1,0 +1,12 @@
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.csproj.AssemblyReference.cache
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.AssemblyInfoInputs.cache
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.AssemblyInfo.cs
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.csproj.CoreCompileInputs.cache
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\bin\Debug\net7.0\JsonKeywordDocumentationLibrary.deps.json
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\bin\Debug\net7.0\JsonKeywordDocumentationLibrary.dll
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\bin\Debug\net7.0\JsonKeywordDocumentationLibrary.pdb
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.dll
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\refint\JsonKeywordDocumentationLibrary.dll
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\JsonKeywordDocumentationLibrary.pdb
+D:\Project\Dotin Class\03\JsonKeywordDocumentationApp\JsonKeywordDocumentationLibrary\obj\Debug\net7.0\ref\JsonKeywordDocumentationLibrary.dll
