@@ -1,0 +1,4 @@
+{
+    "keyword": "unsafe",
+    "description": "Most of the C# code you write is \"verifiably safe code.\" Verifiably safe code means .NET tools can verify that the code is safe."
+}

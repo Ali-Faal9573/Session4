@@ -1,0 +1,4 @@
+{
+    "keyword": "static",
+    "description": "It is also applicable to properties, event, and operators. To create a static member(class, variable, methods, constructor), precede its declaration with the keyword static."
+}

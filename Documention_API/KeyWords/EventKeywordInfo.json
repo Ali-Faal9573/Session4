@@ -1,0 +1,4 @@
+{
+    "keyword": "event",
+    "description": "An event is a notification sent by an object to signal the occurrence of an action. Events in .NET follow the observer design pattern."
+}

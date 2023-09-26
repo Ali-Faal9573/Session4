@@ -1,0 +1,4 @@
+{
+    "keyword": "abstract",
+    "description": "The 'abstract' keyword is used to define an abstract class or method. Abstract classes cannot be instantiated and are meant to be subclassed."
+}

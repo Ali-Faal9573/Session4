@@ -1,0 +1,4 @@
+{
+    "keyword": "async",
+    "description": "The 'async' keyword is used to indicate that a method contains asynchronous code and can use the 'await' keyword to pause execution without blocking the thread."
+}
