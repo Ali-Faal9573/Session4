@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Dotin Class\\03\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj",
+      "projectUniqueName": "D:\\Project\\Dotin Class\\04\\Documention_API\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj",
       "projectName": "JsonKeywordDocumentationLibrary",
-      "projectPath": "D:\\Project\\Dotin Class\\03\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj",
+      "projectPath": "D:\\Project\\Dotin Class\\04\\Documention_API\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj",
       "packagesPath": "C:\\Users\\Dragon9573\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Dotin Class\\03\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationLibrary\\obj\\",
+      "outputPath": "D:\\Project\\Dotin Class\\04\\Documention_API\\JsonKeywordDocumentationLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

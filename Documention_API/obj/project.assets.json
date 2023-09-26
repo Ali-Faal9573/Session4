@@ -63,8 +63,8 @@
     },
     "JsonKeywordDocumentationLibrary/1.0.0": {
       "type": "project",
-      "path": "../../../03/JsonKeywordDocumentationApp/JsonKeywordDocumentationLibrary/JsonKeywordDocumentationLibrary.csproj",
-      "msbuildProject": "../../../03/JsonKeywordDocumentationApp/JsonKeywordDocumentationLibrary/JsonKeywordDocumentationLibrary.csproj"
+      "path": "../JsonKeywordDocumentationLibrary/JsonKeywordDocumentationLibrary.csproj",
+      "msbuildProject": "../JsonKeywordDocumentationLibrary/JsonKeywordDocumentationLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -104,8 +104,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Project\\Dotin Class\\03\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj": {
-              "projectPath": "D:\\Project\\Dotin Class\\03\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj"
+            "D:\\Project\\Dotin Class\\04\\Documention_API\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj": {
+              "projectPath": "D:\\Project\\Dotin Class\\04\\Documention_API\\JsonKeywordDocumentationLibrary\\JsonKeywordDocumentationLibrary.csproj"
             }
           }
         }
